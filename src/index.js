@@ -9,7 +9,7 @@ import student from './student';
 
 let sti = new person('this is inheritance','miraz','mdmirajulkarim@gmail.com','354');
 
-let pi = new person('this is class details es6','miraz,dhaka','wasifmiraz@gmail.com');
+//let pi = new person('this is class details es6','miraz,dhaka','wasifmiraz@gmail.com');
 
 /* console.log('project name:',pi.project,'email',pi.email); */
 pi.print();
